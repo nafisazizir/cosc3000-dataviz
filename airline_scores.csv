@@ -1,101 +1,101 @@
 airline_name,rank,score
-Singapore Airlines,1,101.0
-Qatar Airways,2,100.0
-ANA All Nippon Airways,3,99.0
-Emirates,4,98.0
-Japan Airlines,5,97.0
-Turkish Airlines,6,96.0
-Air France,7,95.0
-Cathay Pacific Airways,8,94.0
-EVA Air,9,93.0
-Korean Air,10,92.0
-Hainan Airlines,11,91.0
-Swiss International Air Lines,12,90.0
-Etihad Airways,13,89.0
-Iberia,14,88.0
-Fiji Airways,15,87.0
-Vistara,16,86.0
-Qantas Airways,17,85.0
-British Airways,18,84.0
-Air New Zealand,19,83.0
-Delta Air Lines,20,82.0
-Lufthansa,21,81.0
-Virgin Atlantic,22,80.0
-Saudi Arabian Airlines,23,79.0
-Finnair,24,78.0
-KLM Royal Dutch Airlines,25,77.0
-China Southern Airlines,26,76.0
-Oman Air,27,75.0
-Asiana Airlines,28,74.0
-Bangkok Airways,29,73.0
-Garuda Indonesia,30,72.0
-AirAsia,31,71.0
-Gulf Air,32,70.0
-Scoot,33,69.0
-Austrian Airlines,34,68.0
-Ethiopian Airlines,35,67.0
-Aegean Airlines,36,66.0
-Air Astana,37,65.0
-Air Canada,38,64.0
-STARLUX Airlines,39,63.0
-Thai Airways,40,62.0
-China Airlines,41,61.0
-Kuwait Airways,42,60.0
-IndiGo,43,59.0
-Vietnam Airlines,44,58.0
-LATAM,45,57.0
-Virgin Australia,46,56.0
-Malaysia Airlines,47,55.0
-Azul Brazilian,48,54.0
-United Airlines,49,53.0
-Azerbaijan Airlines,50,52.0
-Flynas,51,51.0
-Alaska Airlines,52,50.0
-Royal Air Maroc,53,49.0
-Volotea,54,48.0
-jetBlue Airways,55,47.0
-Rex Airlines,56,45.99999999999999
-Aer Lingus,57,44.99999999999999
-Transavia France,58,44.00000000000001
-Sun Country Airlines,59,43.00000000000001
-Southwest Airlines,60,42.0
-airBaltic,61,41.0
-Air Transat,62,40.0
-Jet2.com,63,39.0
-WestJet,64,38.0
-EasyJet,65,37.0
-Royal Brunei Airlines,66,36.0
-Vueling Airlines,67,35.0
-Ryanair,68,34.0
-Jetstar Airways,69,33.0
-flyDubai,70,32.0
-SunExpress,71,31.0
-South African Airways,72,30.0
-Kenya Airways,73,29.0
-Peach,74,28.0
-Hong Kong Airlines,75,27.0
-JetSMART Airlines,76,26.0
-Jetstar Asia,77,25.0
-Air Mauritius,78,24.0
-Eurowings,79,23.0
-Philippine Airlines,80,22.0
-SKY Airline,81,21.0
-American Airlines,82,20.0
-Copa Airlines,83,19.0
-SAS Scandinavian,84,18.0
-Hawaiian Airlines,85,17.0
-LOT Polish,86,16.0
-Wizz Air,87,15.0
-Air Arabia,88,14.0
-TAP Portugal,89,13.0
-RwandAir,90,12.0
-PLAY,91,11.0
-TUI Airways,92,10.0
-Air Canada rouge,93,9.0
-Citilink,94,8.0
-Juneyao Air,95,7.0
-Air Dolomiti,96,6.0
-Breeze Airways,97,5.0
-Norwegian,98,4.0
-Porter Airlines,99,3.0
-Brussels Airlines,100,2.0
+Singapore Airlines,1,100.0
+Qatar Airways,2,99.0
+ANA All Nippon Airways,3,98.0
+Emirates,4,97.0
+Japan Airlines,5,96.0
+Turkish Airlines,6,95.0
+Air France,7,94.0
+Cathay Pacific Airways,8,93.0
+EVA Air,9,92.0
+Korean Air,10,91.0
+Hainan Airlines,11,90.0
+Swiss International Air Lines,12,89.0
+Etihad Airways,13,88.0
+Iberia,14,87.0
+Fiji Airways,15,86.0
+Vistara,16,85.0
+Qantas Airways,17,84.0
+British Airways,18,83.0
+Air New Zealand,19,82.0
+Delta Air Lines,20,81.0
+Lufthansa,21,80.0
+Virgin Atlantic,22,79.0
+Saudi Arabian Airlines,23,78.0
+Finnair,24,77.0
+KLM Royal Dutch Airlines,25,76.0
+China Southern Airlines,26,75.0
+Oman Air,27,74.0
+Asiana Airlines,28,73.0
+Bangkok Airways,29,72.0
+Garuda Indonesia,30,71.0
+AirAsia,31,70.0
+Gulf Air,32,69.0
+Scoot,33,68.0
+Austrian Airlines,34,67.0
+Ethiopian Airlines,35,66.0
+Aegean Airlines,36,65.0
+Air Astana,37,64.0
+Air Canada,38,63.0
+STARLUX Airlines,39,62.0
+Thai Airways,40,61.0
+China Airlines,41,60.0
+Kuwait Airways,42,59.0
+IndiGo,43,58.0
+Vietnam Airlines,44,57.0
+LATAM,45,56.0
+Virgin Australia,46,55.0
+Malaysia Airlines,47,54.0
+Azul Brazilian,48,53.0
+United Airlines,49,52.0
+Azerbaijan Airlines,50,51.0
+Flynas,51,50.0
+Alaska Airlines,52,49.0
+Royal Air Maroc,53,48.0
+Volotea,54,47.0
+jetBlue Airways,55,45.99999999999999
+Rex Airlines,56,44.99999999999999
+Aer Lingus,57,44.00000000000001
+Transavia France,58,43.00000000000001
+Sun Country Airlines,59,42.0
+Southwest Airlines,60,41.0
+airBaltic,61,40.0
+Air Transat,62,39.0
+Jet2.com,63,38.0
+WestJet,64,37.0
+EasyJet,65,36.0
+Royal Brunei Airlines,66,35.0
+Vueling Airlines,67,34.0
+Ryanair,68,33.0
+Jetstar Airways,69,32.0
+flyDubai,70,31.0
+SunExpress,71,30.0
+South African Airways,72,29.0
+Kenya Airways,73,28.0
+Peach,74,27.0
+Hong Kong Airlines,75,26.0
+JetSMART Airlines,76,25.0
+Jetstar Asia,77,24.0
+Air Mauritius,78,23.0
+Eurowings,79,22.0
+Philippine Airlines,80,21.0
+SKY Airline,81,20.0
+American Airlines,82,19.0
+Copa Airlines,83,18.0
+SAS Scandinavian,84,17.0
+Hawaiian Airlines,85,16.0
+LOT Polish,86,15.0
+Wizz Air,87,14.0
+Air Arabia,88,13.0
+TAP Portugal,89,12.0
+RwandAir,90,11.0
+PLAY,91,10.0
+TUI Airways,92,9.0
+Air Canada rouge,93,8.0
+Citilink,94,7.0
+Juneyao Air,95,6.0
+Air Dolomiti,96,5.0
+Breeze Airways,97,4.0
+Norwegian,98,3.0
+Porter Airlines,99,2.0
+Brussels Airlines,100,1.0

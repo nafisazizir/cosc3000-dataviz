@@ -25,7 +25,7 @@ airline with rank 1 will have score 100, and so on.
 
 
 def calculate_score(rank, total_ranks):
-    return 101 - ((rank - 1) / total_ranks) * 100
+    return 101 - ((rank) / total_ranks) * 100
 
 
 with open("airline_scores.csv", mode="w", newline="", encoding="utf-8") as file:
